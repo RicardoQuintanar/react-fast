@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "DBZ GROUP",
+    "image": "assets/images/dbzbackground1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Shenron",
+    "image": "assets/images/dbzfinalbackdrop.gif"
+  },
+  {
+    "id": 3,
+    "name": "Kid Buu",
+    "image": "assets/images/douchebuu.gif"
+  },
+  {
+    "id": 4,
+    "name": "Frieza",
+    "image": "assets/images/frieza.gif"
+  },
+  {
+    "id": 5,
+    "name": "Gohan",
+    "image": "assets/images/gohan1.gif"
+  },
+  {
+    "id": 6,
+    "name": "Goku",
+    "image": "assets/images/gokuplayercard.gif"
+  },
+  {
+    "id": 7,
+    "name": "CELL",
+    "image": "assets/images/perfectcell.gif"
+  },
+  {
+    "id": 8,
+    "name": "Bowser",
+    "image": "assets/images/vegeta.gif"
+  }
+]

@@ -1,0 +1,7 @@
+.clouds {
+    margin: 0;
+    background: rgb(0, 7, 17);
+    background-size: cover;
+    color: rgb(209, 113, 4);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
