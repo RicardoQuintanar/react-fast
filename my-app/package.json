@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ricardoquintanar.github.io/react-fast/",
+  "homepage": "https://ricardoquintanar.github.io/react-fast/my-app/",
   "dependencies": {
     "build": "^0.1.4",
     "react": "^16.8.6",
